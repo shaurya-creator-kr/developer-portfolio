@@ -1,4 +1,4 @@
-# Anshika Sharma — Developer Portfolio
+# Shaurya Chaudhary — Developer Portfolio
 
 B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
 
