@@ -1,13 +1,13 @@
 # Coding Platform Progress Tracker
 
 ## HackerRank
-- Profile URL: [Add your HackerRank profile URL]
+- Profile URL: [https://www.hackerrank.com/profile/h2601730426]
 - Python problems solved: 3
-- Python Basic Skill Test: Submitted – Result Pending
-- Certificate: Pending
+- Python Basic Skill Test: Submitted – Result passed
+- Certificate: Earned and uploaded to GitHub
 
 ## LeetCode
-- Profile URL: [Add your LeetCode profile URL]
+- Profile URL: [https://leetcode.com/u/Shaurya-creator-kr/]
 - Easy problems attempted: 2
 - Easy problems solved: 2
 - Problems:
@@ -16,7 +16,7 @@
 - Medium problems attempted: 0
 
 ## freeCodeCamp
-- Profile URL: [Add your freeCodeCamp profile URL]
+- Profile URL: [https://www.freecodecamp.org/fcc-fb8f66ec-8acd-4d71-ab00-74438ce8b76a]
 - Certification: Responsive Web Design
 - Cat Photo App: 15 steps completed
 - Cafe Menu: 10 steps completed
